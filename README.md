@@ -10,6 +10,6 @@ Mis tareas consisten en:
 
 Estudiante de tercero de Ingeniería Informática.
 * **Correo**: mlb00033@red.ujaen.es
-* **Web**: http://vrivas.es
+* **Web**: Actualmente no dispongo de ninguna Web.
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
