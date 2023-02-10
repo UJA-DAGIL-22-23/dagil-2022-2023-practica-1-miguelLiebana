@@ -13,3 +13,9 @@ Estudiante de tercero de Ingeniería Informática.
 * **Web**: Actualmente no dispongo de ninguna Web.
 * **GitHub**: https://github.com/miguelLiebana
 * **Trello (tablero práctica 1)**: https://trello.com/b/o5wbKb2M/practica1
+
+#### Capturas de pantalla de trello
+Captura antes de iniciar la práctica </br>
+<img src='/trelloInicial.png' width='300px'> </br>
+Captura después de terminar la práctica </br>
+<img src='/trelloFinal.png' width='300px'> </br>
