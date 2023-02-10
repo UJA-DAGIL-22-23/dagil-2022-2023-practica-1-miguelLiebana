@@ -12,4 +12,4 @@ Estudiante de tercero de Ingeniería Informática.
 * **Correo**: mlb00033@red.ujaen.es
 * **Web**: Actualmente no dispongo de ninguna Web.
 * **GitHub**: https://github.com/miguelLiebana
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello (tablero práctica 1)**: https://trello.com/b/o5wbKb2M/practica1
