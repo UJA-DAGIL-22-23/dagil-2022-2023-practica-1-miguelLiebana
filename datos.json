@@ -1,0 +1,12 @@
+{
+  "Nombre":Miguel,
+  "Apellidos":Liébana Beltrán,
+  "correo":mlb00033@red.ujaen.es,
+  "GitHub" https://github.com/miguelLiebana,
+  "foto"[
+  {
+       "nombre": "Foto de perfil",
+       "imgPath": "perfilMiguel.jpg"
+    }
+  ]
+}
