@@ -9,7 +9,7 @@ Tus tareas consisten en:
 <img src='/perfilMiguel.jpg' width='200px'>
 
 Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
+* **Correo**: mlb00033@red.ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
